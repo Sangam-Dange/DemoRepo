@@ -1,1 +1,2 @@
 it is a text file added from git hub
+pulled and edited new file
